@@ -1,0 +1,15 @@
+
+body{
+    background-color: #ebeff5;
+}
+
+#Total_Order{
+    background-color: #4cb4c7;
+}
+#Orders_Deliverd{
+    background-color: #7abecc;
+}
+#Orders_Pending{
+    background-color: #7CD1C0;
+}
+
